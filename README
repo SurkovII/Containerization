@@ -9,5 +9,5 @@ cp /lib64/ld-linux-x86-64.so.2 ~/testfolder/lib64/
 
 Запустим команду chroot
 sudo chroot ~/testfolder
-![pic1](https://github.com/SurkovII/Containerization/blob/main/Cont/Pic1.PNG)
+![pic1] (Cont/Pic1.PNG)
 Запустим команду ls
