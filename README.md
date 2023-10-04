@@ -14,7 +14,7 @@ cp /lib/x86_64-linux-gnu/libc.so.6 ~/testfolder/lib
 
 cp /lib64/ld-linux-x86-64.so.2 ~/testfolder/lib64/
 
-Запустим команду chroot
+Запустим команду chroot. Мы должны увидеть изменение приветствия оболочки, что означает успешное выполнение команды chroot.
 
 sudo chroot ~/testfolder
 
